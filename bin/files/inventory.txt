@@ -1,0 +1,5 @@
+Godzilla on Vacation,24.95,5,Wesley,Ransom House,FICTION
+Loch Ness and the tree fiddy,49.95,1,Fred,Penquin Press,FICTION
+MVS JCL,89.95,3,Stevie B,Microsoft Press,NON-FICTION
+Lingo in a Nutshell,19.95,8,Bill,O'Reilly,NON-FICTION
+Grid Computing,79.95,2,Bobby,Trouser Press,NON-FICTION
